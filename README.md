@@ -1,2 +1,3 @@
-# graphDB
-Repo for quick demo of graphDB
+# Graph databases
+
+Repo for quick and dirty demo of graphDB using Neo4j
